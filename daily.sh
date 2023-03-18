@@ -3,7 +3,7 @@
 # Stuff to be run daily.
 
 # Run stress test for a minute
-stress --cpu=2 --timeout=60
+stress --cpu 2 --timeout 60
 
 
 # Sync, and update this file itself.
